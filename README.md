@@ -26,7 +26,7 @@ Guidelines for contributing to the project, if applicable.
 Specify the license under which the project is released.
 
 ## Additional Information
-- Make sure to add your OpenAI API key in the format `OPENAI_API_KEY="Your-Open-AI-API-Key"` to interact with the AI model.
+- Make sure to add your OpenAI API key in the UI.
 - [Link to the project on Hugging Face](https://huggingface.co/GenAI-EnterpriseChatAssistant)
 
 ## Future Enhancements
