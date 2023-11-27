@@ -9,8 +9,14 @@ GenAI-EnterpriseChatAssistant is an advanced chat interface powered by generativ
 - Customizable number of chat tabs.
 - Conversation summarization feature for quick overview.
 - Secure API key input for user-specific model access.
+![Screenshot 2023-11-27 at 1 20 57 AM](https://github.com/polineniavinash/GenAI-EnterpriseChatAssistant/assets/32843645/0ce4f29f-ea2f-482c-9113-0def90728128)
 
-## How to Use
+![Screenshot 2023-11-27 at 1 21 43 AM](https://github.com/polineniavinash/GenAI-EnterpriseChatAssistant/assets/32843645/201613cb-eb8e-4e5f-84ad-bf0669d8212d)
+
+![Screenshot 2023-11-27 at 1 23 03 AM](https://github.com/polineniavinash/GenAI-EnterpriseChatAssistant/assets/32843645/9af45b87-888a-4ad1-8237-04b781c46169)
+
+[Screenshot 2023-11-27 at 1 23 34 AM](https://github.com/polineniavinash/GenAI-EnterpriseChatAssistant/assets/32843645/f0d1db2f-4815-4e4f-ace6-e67805ce0889)
+ ## How to Use
 1. Enter your OpenAI API key in the sidebar.
 2. Choose the number of chat tabs you'd like to use.
 3. Start chatting by typing your questions and hitting send.
