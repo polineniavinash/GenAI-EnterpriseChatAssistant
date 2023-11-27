@@ -28,7 +28,6 @@ Specify the license under which the project is released.
 ## Additional Information
 - Make sure to add your OpenAI API key in the UI.
 - [Link to the project on Hugging Face](https://huggingface.co/GenAI-EnterpriseChatAssistant)
-![Screenshot 2023-11-27 at 1 12 09 AM](https://github.com/polineniavinash/GenAI-EnterpriseChatAssistant/assets/32843645/9eb22c8e-a806-4374-b984-e89e4a46f2ab)
 
 ## Future Enhancements
 Discuss potential features or improvements you're considering for future versions.
