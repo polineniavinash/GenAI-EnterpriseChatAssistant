@@ -29,7 +29,7 @@ Specify the license under which the project is released.
 - Make sure to add your OpenAI API key in the UI.
 
 ## Future Enhancements
-Discuss potential features or improvements you're considering for future versions.
+Discuss potential features or improvements you're considering for future versions. 
 
 ## Contributions
 Contributions to this project are welcome! Whether it's feature requests, bug reports, or code contributions, your input is valuable.
