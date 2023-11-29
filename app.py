@@ -24,7 +24,7 @@ def get_response(user_input, api_key, chat_key):
         st.session_state['conversations'][chat_key] = {'messages': []}
 
     conversation = st.session_state['conversations'][chat_key]
-    llm = OpenAI(temperature=0, openai_api_key=api_key, model_name='gpt-3.5-turbo')
+    llm = OpenAI(temperature=0, openai_api_key=api_key, model_name='text-davinci-003')
 
     if 'chain' not in conversation:
         conversation['chain'] = ConversationChain(llm=llm,verbose=True, memory=ConversationSummaryMemory(llm=llm))

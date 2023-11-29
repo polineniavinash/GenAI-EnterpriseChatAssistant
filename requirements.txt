@@ -1,5 +1,4 @@
 langchain
 streamlit
 streamlit_chat
-# SpeechRecognition
-# pyaudio
+
