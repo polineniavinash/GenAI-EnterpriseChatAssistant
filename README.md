@@ -23,20 +23,8 @@ GenAI-EnterpriseChatAssistant is an advanced chat interface powered by generativ
 3. Start chatting by typing your questions and hitting send.
 4. Use the 'Summarize All Conversations' button to get an overview of AI responses.
 
-## Installation
-Instructions on how to install and run the application, including required packages.
-
-## Contributing
-Guidelines for contributing to the project, if applicable.
-
-## License
-Specify the license under which the project is released.
-
 ## Additional Information
 - Make sure to add your OpenAI API key in the UI.
-
-## Future Enhancements
-Discuss potential features or improvements you're considering for future versions. 
 
 ## Contributions
 Contributions to this project are welcome! Whether it's feature requests, bug reports, or code contributions, your input is valuable.
@@ -50,4 +38,7 @@ Avinash Polineni, a cloud engineer with a passion for science, technology, and A
 - [Hugging Face](https://huggingface.co/AvinashPolineni)
 
 
-© 2023 Avinash Polineni. All Rights Reserved.
+© 2023 Avinash Polineni.
+
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
