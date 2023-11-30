@@ -11,7 +11,7 @@ if 'API_Key' not in st.session_state:
     st.session_state['API_Key'] = ''
 
 # Page configuration
-st.set_page_config(page_title="Chat GPT Clone", page_icon=":robot_face:")
+st.set_page_config(page_title="Enterprise AI Chat Assistant", page_icon=":robot_face:")
 st.markdown("<h1 style='text-align: center;'>Enterprise AI Chat Assistant</h1>", unsafe_allow_html=True)
 
 # Sidebar for API key input
