@@ -1,4 +1,7 @@
 langchain
 streamlit
 streamlit_chat
-
+openai
+tiktoken
+python-dotenv
+faiss-cpu
